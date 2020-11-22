@@ -1,19 +1,54 @@
 {
-  "campaigns": [{
-    "id": 1,
-    "fileName": "file1.csv"
-  },
-  {
-  "id": 2,
-  "fileName": "file2.csv"
-  },
-  {
-    "id": 3,
-    "fileName": "file3.csv"
-  },
-  {
-  "id": 4,
-  "fileName": "file4.csv"
+  "campaigns": [
+    {
+      "id": 1,
+      "fileName": "file1.csv"
+    },
+    {
+      "id": 2,
+      "fileName": "file2.csv"
+    },
+    {
+      "id": 3,
+      "fileName": "file3.csv"
+    },
+    {
+      "id": 4,
+      "fileName": "file4.csv"
+    }
+  ],
+  "listCampaigns": {
+    "strings": [
+      {
+        "stringInfo": {
+          
+        },
+        "ROI": 1000,
+        "ROIConfidence": 5,
+        "Volume": 500,
+        "VolumeConfidence": 4
+      },
+      {
+        "stringInfo": {
+          
+        },
+        "ROI": 1000,
+        "ROIConfidence": 5,
+        "Volume": 500,
+        "VolumeConfidence": 4
+      },
+      {
+        "stringInfo": {
+          
+        },
+        "ROI": 1000,
+        "ROIConfidence": 5,
+        "Volume": 500,
+        "VolumeConfidence": 4
+      }
+    ],
+    "allocatedStrings": [
+      
+    ]
   }
-]
 }

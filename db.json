@@ -32,19 +32,19 @@
         "stringInfo": {
           
         },
-        "ROI": 1000,
-        "ROIConfidence": 5,
-        "Volume": 500,
-        "VolumeConfidence": 4
+        "ROI": 100,
+        "ROIConfidence": 8,
+        "Volume": 200,
+        "VolumeConfidence": 9
       },
       {
         "stringInfo": {
           
         },
-        "ROI": 1000,
-        "ROIConfidence": 5,
-        "Volume": 500,
-        "VolumeConfidence": 4
+        "ROI": 800,
+        "ROIConfidence": 9,
+        "Volume": 100,
+        "VolumeConfidence": 7
       }
     ],
     "allocatedStrings": [

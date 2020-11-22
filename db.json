@@ -21,7 +21,8 @@
     "strings": [
       {
         "stringInfo": {
-          
+          "campaignName" : "Campaign-A",
+          "campaignId": 5
         },
         "ROI": 1000,
         "ROIConfidence": 5,
@@ -30,7 +31,8 @@
       },
       {
         "stringInfo": {
-          
+          "campaignName" : "Campaign-B",
+          "campaignId": 3
         },
         "ROI": 100,
         "ROIConfidence": 8,
@@ -39,7 +41,8 @@
       },
       {
         "stringInfo": {
-          
+          "campaignName" : "Campaign-C",
+          "campaignId": 1
         },
         "ROI": 800,
         "ROIConfidence": 9,

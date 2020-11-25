@@ -27,7 +27,8 @@
         "ROI": 1000,
         "ROIConfidence": 5,
         "Volume": 500,
-        "VolumeConfidence": 4
+        "VolumeConfidence": 4,
+        "allocated": true
       },
       {
         "stringInfo": {
@@ -37,7 +38,8 @@
         "ROI": 100,
         "ROIConfidence": 8,
         "Volume": 200,
-        "VolumeConfidence": 9
+        "VolumeConfidence": 9,
+        "allocated": false
       },
       {
         "stringInfo": {
@@ -47,97 +49,19 @@
         "ROI": 800,
         "ROIConfidence": 9,
         "Volume": 100,
-        "VolumeConfidence": 7
+        "VolumeConfidence": 7,
+        "allocated": true
       },
       {
         "stringInfo": {
-          "campaignName" : "Campaign-A",
+          "campaignName" : "Campaign-D",
           "campaignId": 5
         },
         "ROI": 1000,
         "ROIConfidence": 5,
         "Volume": 500,
-        "VolumeConfidence": 4
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-B",
-          "campaignId": 3
-        },
-        "ROI": 100,
-        "ROIConfidence": 8,
-        "Volume": 200,
-        "VolumeConfidence": 9
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-C",
-          "campaignId": 1
-        },
-        "ROI": 800,
-        "ROIConfidence": 9,
-        "Volume": 100,
-        "VolumeConfidence": 7
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-A",
-          "campaignId": 5
-        },
-        "ROI": 1000,
-        "ROIConfidence": 5,
-        "Volume": 500,
-        "VolumeConfidence": 4
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-B",
-          "campaignId": 3
-        },
-        "ROI": 100,
-        "ROIConfidence": 8,
-        "Volume": 200,
-        "VolumeConfidence": 9
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-C",
-          "campaignId": 1
-        },
-        "ROI": 800,
-        "ROIConfidence": 9,
-        "Volume": 100,
-        "VolumeConfidence": 7
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-A",
-          "campaignId": 5
-        },
-        "ROI": 1000,
-        "ROIConfidence": 5,
-        "Volume": 500,
-        "VolumeConfidence": 4
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-B",
-          "campaignId": 3
-        },
-        "ROI": 100,
-        "ROIConfidence": 8,
-        "Volume": 200,
-        "VolumeConfidence": 9
-      },
-      {
-        "stringInfo": {
-          "campaignName" : "Campaign-C",
-          "campaignId": 1
-        },
-        "ROI": 800,
-        "ROIConfidence": 9,
-        "Volume": 100,
-        "VolumeConfidence": 7
+        "VolumeConfidence": 4,
+        "allocated": false
       }
     ],
     "allocatedStrings": [

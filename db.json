@@ -32,7 +32,7 @@
       },
       {
         "stringInfo": {
-          "campaignName" : "Campaign-B",
+          "campaignName" : "Campaign-C",
           "campaignId": 8
         },
         "ROI": 100,
@@ -43,7 +43,7 @@
       },
       {
         "stringInfo": {
-          "campaignName" : "Campaign-C",
+          "campaignName" : "Campaign-F",
           "campaignId": 1
         },
         "ROI": 800,
@@ -56,6 +56,28 @@
         "stringInfo": {
           "campaignName" : "Campaign-D",
           "campaignId": 9
+        },
+        "ROI": 1000,
+        "ROIConfidence": 5,
+        "Volume": 500,
+        "VolumeConfidence": 4,
+        "allocated": false
+      },
+      {
+        "stringInfo": {
+          "campaignName" : "Campaign-B",
+          "campaignId": 10
+        },
+        "ROI": 800,
+        "ROIConfidence": 9,
+        "Volume": 100,
+        "VolumeConfidence": 7,
+        "allocated": true
+      },
+      {
+        "stringInfo": {
+          "campaignName" : "Campaign-G",
+          "campaignId": 19
         },
         "ROI": 1000,
         "ROIConfidence": 5,

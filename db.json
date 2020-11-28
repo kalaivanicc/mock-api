@@ -65,6 +65,17 @@
       },
       {
         "stringInfo": {
+          "campaignName" : "Campaign-QS",
+          "campaignId": 57
+        },
+        "ROI": 3,
+        "Volume": 850,
+        "ROIConfidence": 102,
+        "VolumeConfidence": 100,
+        "allocated": false
+      },
+      {
+        "stringInfo": {
           "campaignName" : "Campaign-Q",
           "campaignId": 8
         },

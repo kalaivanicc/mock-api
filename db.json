@@ -101,7 +101,7 @@
           "campaignName" : "Campaign-U",
           "campaignId": 1
         },
-        "ROI": 10,
+        "ROI": 7,
         "Volume": 500,
         "ROIConfidence": 102,
         "VolumeConfidence": 89,
@@ -156,7 +156,7 @@
           "campaignName" : "Campaign-AD",
           "campaignId": 63
         },
-        "ROI": 2,
+        "ROI": 5,
         "Volume": 900,
         "ROIConfidence": 104,
         "VolumeConfidence": 94,

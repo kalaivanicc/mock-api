@@ -46,7 +46,7 @@
           "campaignName" : "Campaign-F",
           "campaignId": 15
         },
-        "ROI": 4,
+        "ROI": 2,
         "Volume": 800,
         "ROIConfidence": 110,
         "VolumeConfidence": 98,
@@ -90,7 +90,7 @@
           "campaignName" : "Campaign-M",
           "campaignId": 17
         },
-        "ROI": 6,
+        "ROI": 2,
         "Volume": 600,
         "ROIConfidence": 99,
         "VolumeConfidence": 102,
@@ -145,7 +145,7 @@
           "campaignName" : "Campaign-II",
           "campaignId": 82
         },
-        "ROI": 14,
+        "ROI": 10,
         "Volume": 300,
         "ROIConfidence": 98,
         "VolumeConfidence": 89,
